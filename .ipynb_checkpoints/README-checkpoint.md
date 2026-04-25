@@ -7,3 +7,7 @@ I have uploaded several data files to this repo for the purpose of exploring thi
 "homelessness_shelter_data.csv" - self-explanatory
 
 "shelter_land_price.csv" - integrated data for importing into PowerBI
+
+"max_occupancy_rates_by_shelter.csv" - the percentage of records with max occupancy rates for each shelter
+
+"max_occupancy_rates_by_city.csv" - the percentage of records with max occupancy rates for each city
